@@ -1,0 +1,66 @@
+.shopping{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    line-height: 0.45rem;
+    text-align: center;
+}
+.list{
+    flex: 1;
+    overflow-y: scroll;
+}
+.list>ul{
+    padding: .1rem;
+}
+.list>ul>li{
+    display: flex;
+    margin-top:.1rem;
+}
+.list>ul>li>dl{
+    display: flex;
+    margin-left: .2rem;
+}
+.list>ul>li>dl>dt{
+    width: 1.5rem;
+}
+.list>ul>li>dl>dt>img{
+    width: 100%
+}
+.list>ul>li>dl>dd{
+    flex: 1;
+    margin-left: .2rem;
+}
+.list>ul>li>dl>dd>h3{
+    font-size: .14rem;
+}
+.tit{
+    margin-top: .3rem;
+}
+.tit>p{
+    font-size: .14rem;
+}
+.tit>ul{
+    display: flex;
+    margin-top: .1rem;
+    font-size: .14rem;
+}
+.tit>ul>li{
+    width: .3rem;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+.footer{
+height: .45rem;
+}
+.footer>ul{
+    display: flex;
+    font-size: .14rem;
+}
+.footer>ul>li{
+    flex: 1;
+    text-align: center;
+    line-height: .45rem;
+}

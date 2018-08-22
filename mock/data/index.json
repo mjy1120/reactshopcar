@@ -1,0 +1,49 @@
+ [{
+    "id":0,
+    "url": "http://pic20.photophoto.cn/20110717/0035035584042241_b.jpg",
+    "name": "第二件5折 福建漳州东魁新鲜杨梅水果1.5kg 顺丰空运",
+    "pice": "126",
+    "cont": 1,
+    "city": "@city(true)",
+    "state": false
+}, {
+    "id":1,
+    "url": "http://pic.58pic.com/58pic/13/88/63/12858PICviG_1024.jpg",
+    "name": "  【领券立减10元】【龙海馆】福建特产  浮宫东魁杨梅中梅3斤 新鲜优选水果礼盒装 生态溯源 产地直发 【中梅硬丝】5A级 3斤装  ",
+    "pice": "100",
+    "cont": 1,
+    "city": "@city(true)",
+    "state": true
+}, {
+    "id":2,
+    "url": "http://pic32.photophoto.cn/20140728/0035035520359544_b.jpg",
+    "name": "  现货云南石屏荸荠杨梅 新鲜杨梅水果非仙居东魁 2盒约1kg  ",
+    "pice": "210",
+    "cont": 1,
+    "city": "@city(true)",
+    "state": true
+}, {
+    "id":3,
+    "url": "http://pic27.photophoto.cn/20130426/0006019045222988_b.jpg",
+    "name": "  果蜜度 浮宫杨梅现货杨梅新鲜水果1500g礼盒装现摘杨梅 3斤  ",
+    "pice": "30",
+    "cont": 1,
+    "city": "@city(true)",
+    "state": false
+}, {
+    "id":4,
+    "url": "http://pic29.photophoto.cn/20131008/0035035528039817_b.jpg",
+    "name": "  【现货】福建浮宫杨梅新鲜杨梅水果非仙居东魁荸荠杨梅 3kg杨梅  ",
+    "pice": "146",
+    "cont": 1,
+    "city": "@city(true)",
+    "state": false
+}, {
+    "id":5,
+    "url": "http://img3.imgtn.bdimg.com/it/u=2869496093,2438521832&fm=27&gp=0.jpg",
+    "name": "  蔬农 现摘杨梅 新鲜水果 当季时令 农家现摘现发买三斤送三斤孕妇水果 1.5KG三斤装(现摘现发 保证新鲜)  ",
+    "pice": "176",
+    "cont": 1,
+    "city": "@city(true)",
+    "state": false
+}]
